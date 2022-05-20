@@ -6,13 +6,13 @@ Application under test: https://opensource-demo.orangehrmlive.com/
 
 API Documentation: https://orangehrm.github.io/orangehrm-api-doc/
 
-**The final project is split into 2 sections: [Testing section]( ) and [SQL section]( ).
+**The final project is split into 2 sections: [Testing section](https://github.com/bbrandea/manual_testing_portofolio/blob/main/Final%20Project/README.md#1-testing-section) and [SQL section](https://github.com/bbrandea/manual_testing_portofolio/blob/main/Final%20Project/README.md#2-sql-section).**
 
 Tools used: JIRA, Zephyr Squad, Postman, MySQL Workbench.
 
 # Functional specifications
 
-The below Story was created in JIRA and describes the functional specifications of the Dependants module, for which the final project is performed upon.
+The below Story was created in JIRA and describes the functional specifications of the Performance Module, for which the final project is performed upon.
 
 
 # 1 Testing section
