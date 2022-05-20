@@ -14,6 +14,7 @@ Tools used: JIRA, Zephyr Squad, Postman, MySQL Workbench.
 
 The below Story was created in JIRA and describes the functional specifications of the Performance Module, for which the final project is performed upon.
 
+![image]
 
 # 1 Testing section
 
