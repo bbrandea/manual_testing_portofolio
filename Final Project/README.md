@@ -14,7 +14,7 @@ Tools used: JIRA, Zephyr Squad, Postman, MySQL Workbench.
 
 The below Story was created in JIRA and describes the functional specifications of the Performance Module, for which the final project is performed upon.
 
-![kpi](https://user-images.githubusercontent.com/105885092/169592514-89a5be08-fc55-4454-b4e8-50df0a7fbc55.jpg)
+![kpi](https://user-images.githubusercontent.com/105885092/169594126-7a61ba10-a484-4f76-ac9d-1cbaa3819663.jpg)
 
 # 1 Testing section
 
@@ -99,4 +99,5 @@ The following elements are needed to be ready before the test execution phase be
 -> enter here test execution report/chart
 
 # 2 SQL section
+
 
