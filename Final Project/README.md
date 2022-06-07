@@ -100,4 +100,4 @@ The following elements are needed to be ready before the test execution phase be
 
 # 2 SQL section
 
-Created a database named 'orangehrm' and a table named 'KPIs' with all the columns needed to save data per specifications. Performed different queries inside the sql file: [orange.sql](https://github.com/bbrandea/manual_testing_portofolio/edit/main/Final%20Project/dependents.sql)
+Created a database named 'orangehrm' and a table named 'KPIs' with all the columns needed to save data per specifications. Performed different queries inside the sql file: [orangehrm.sql](https://github.com/bbrandea/manual_testing_portofolio/edit/main/Final%20Project/dependents.sql)
