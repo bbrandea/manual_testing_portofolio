@@ -22,16 +22,15 @@ The below Story was created in JIRA and describes the functional specifications 
 
 The Test Plan is designed to describe all details of testing for the Performance Module from the OrangeHRM application. 
 
-The plan identifies the items to be tested, the features to be tested, the types of testing to be performed, the personnel responsible for testing, the resources and schedule required to complete testing, and the risks associated with the plan
+The plan identifies the items to be tested, the features to be tested, the types of testing to be performed, the person responsible for testing, the resources and schedule required to complete testing, and the risks associated with the plan.
 
-#### 1.1.1 Roles assigned to the project and persons allocated
+#### 1.1.1 Role assigned to the project and person allocated
 
 * QA Engineer - Bianca Brandea
 
 #### 1.1.2 Entry criteria defined
 
 * functional specifications are defined
-* roles needed for the project are allocated
 * initial project risks were detected and mitigated
 
 #### 1.1.3 Exit criteria defined
@@ -41,7 +40,7 @@ The plan identifies the items to be tested, the features to be tested, the types
 * all resolved bugs have been re-tested and approved by the QA team
 * deadline was reached
 * no detected major risk remained un-mitigated
-* exploratory regression testing must be performed on the Performance Module, which includes the Add KPU section
+* exploratory regression testing must be performed on the Performance Module, which includes the Add KPI section
 
 #### 1.1.4 Test scope
 
@@ -63,40 +62,47 @@ It will be done by generating periodic reports that reflect the current status o
 
 ## 1.3 Test Analysis
 
-The testing process will be executed based on the above requirements for the Dependents module. The following test conditions were found:
- * Enter test conditions here
+The testing process will be executed based on the above requirements for the Performance module. The following test conditions were found:
+ * Enter data only for mandatory fields and check that the KPI is created/updated
+ * Enter data for all available fields and check that the KPI is created/updated
+ * Leave mandatory fields empty and check that the KPI cannot be created/updated
+ * View KPI details and check they are correct
+ * View all KPIs in a list
+ * Check all validation constraints for the fields
 
-## 1.4 Test Design
+## 1.4 Test Design and Execution
 
 Functional test cases were created in Zephyr Squad. Based on the analysis of the specifications, the test design techniques used for generating test cases 
 are:
 
 **Test cases:**
--> enter here test cases or at least the titles
+![test design](https://user-images.githubusercontent.com/105885092/189501908-0ebe77d3-0f3c-43d8-95f6-7f10a994699f.jpg)
 
+The test cases with steps can be viewed here: [KPI_test_cases_and_bugs.pdf](https://github.com/bbrandea/manual_testing_portofolio/blob/main/Final%20Project/KPI_test_cases_and_bugs.pdf)
 
-The test cases with steps can be viewed here: [test_cases.pdf]()
-
+* Bugs have been created based on the failed tests:
+ ![test execution](https://user-images.githubusercontent.com/105885092/189502162-a8b91996-de3f-419c-83d4-80fd2c338012.jpg)
+    
 ## 1.5 Test Implementation
 
 The following elements are needed to be ready before the test execution phase begins:
 
-* enter here what needs to be ready for the test execution to begin
+* Testing environment is up and running: https://opensource-demo.orangehrmlive.com/
+* Access to the testing environment is given: Username : Admin | Password : admin123
+* Cycle summary was created 
+* Test cases were added to the cycle summary
+* Postman collection with the dependents API methods was created 
+* Authorization token was created for accessing the API
 
-## 1.6 Test Execution
-
-* Test cases are executed on the created test Cycle summary: [cycle_summary_execution.pdf]()
-* Bugs have been created based on the failed tests. The complete bug reports can be found here: [created_bugs.pdf]()
-    *  enter here bug titles
-
-
-## 1.7 Test Completion
+## 1.6 Test Completion
 
 * Exit criteria was evaluated and passed
-* The traceability matrix was generated and can be found here: [Traceability_matrix.csv]()
-* Test execution chart was generated, the final report shows.... -> describe the final report
+* The traceability matrix was generated and can be found here: [Traceability_Matrix.xlsx](https://github.com/bbrandea/manual_testing_portofolio/blob/main/Final%20Project/Traceability_Matrix.xlsx)
+* Test execution chart was generated, the final report shows that a number 2 tests have failed of a total of 15
+* A number of 15 test cases were planned for execution and all of them were executed
+* A number of 5 total bugs were found, from which the priority is: 3 is high and 2 are medium
 
--> enter here test execution report/chart
+![Test execution chart](https://user-images.githubusercontent.com/105885092/189502182-ba77d074-6b61-470c-b615-b1505f98a369.jpg)
 
 # 2 SQL section
 
