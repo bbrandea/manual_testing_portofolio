@@ -101,3 +101,7 @@ The following elements are needed to be ready before the test execution phase be
 # 2 SQL section
 
 Created a database named 'orangehrm' and a table named 'KPIs' with all the columns needed to save data per specifications. Performed different queries inside the sql file: [orangehrm.sql](https://github.com/bbrandea/manual_testing_portofolio/blob/main/Final%20Project/orangehrm.sql)
+
+# 3 API section
+
+Obtained tokens and tested the "POST" and "GET" methods. Performed different queries inside the json file: [OrangeHRM API - KPIs.postman_collection.json (https://github.com/bbrandea/manual_testing_portofolio/blob/main/Final%20Project/OrangeHRM API-KPIs.postman_collection.json)
