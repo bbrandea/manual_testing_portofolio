@@ -104,4 +104,4 @@ Created a database named 'orangehrm' and a table named 'KPIs' with all the colum
 
 # 3 API section
 
-Obtained tokens and tested the "POST" and "GET" methods. Performed different queries inside the json file: [OrangeHRM API - KPIs.postman_collection.json (https://github.com/bbrandea/manual_testing_portofolio/blob/main/Final%20Project/OrangeHRM API-KPIs.postman_collection.json)
+Obtained tokens and tested the "POST" and "GET" methods. Performed different queries inside the json file: [OrangeHRMAPI-KPIs.postman_collection.json] (https://github.com/bbrandea/manual_testing_portofolio/blob/main/Final%20Project/OrangeHRMAPI-KPIs.postman_collection.json) 
