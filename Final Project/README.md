@@ -1,6 +1,6 @@
 # Final Project for ITF Manual Testing Course
 
-The scope of the final project for ITF Manual Testing Course is to use all gained knowledge throught the course and apply them in practice, using a live application.
+The scope of the final project for ITF Manual Testing Course is to use all the knowledge gained throughout the course and apply them in practice, using a live application.
 
 Application under test: https://opensource-demo.orangehrmlive.com/
 
@@ -40,7 +40,7 @@ The plan identifies the items to be tested, the features to be tested, the types
 * all resolved bugs have been re-tested and approved by the QA team
 * deadline was reached
 * no detected major risk remained un-mitigated
-* exploratory regression testing must be performed on the Performance Module, which includes the Add KPI section
+* exploratory testing must be performed on the Performance Module, which includes the Add KPI section
 
 #### 1.1.4 Test scope
 
@@ -54,7 +54,7 @@ The plan identifies the items to be tested, the features to be tested, the types
 
 #### 1.1.6 Evaluating entry criteria
 
-The entry criterias defined in the Test Planning phase have been achieved and the test process can continue. 
+The entry criteria defined in the Test Planning phase have been achieved and the test process can continue. 
 
 ## 1.2 Test Monitoring and Control
 
@@ -73,7 +73,7 @@ The testing process will be executed based on the above requirements for the Per
 ## 1.4 Test Design and Execution
 
 Functional test cases were created in Zephyr Squad. Based on the analysis of the specifications, the test design techniques used for generating test cases 
-are:
+are boundary value analysis, equivalence partitioning and use case testing.
 
 **Test cases:**
 ![test design](https://user-images.githubusercontent.com/105885092/189501908-0ebe77d3-0f3c-43d8-95f6-7f10a994699f.jpg)
