@@ -6,7 +6,7 @@ Application under test: https://opensource-demo.orangehrmlive.com/
 
 API Documentation: https://orangehrm.github.io/orangehrm-api-doc/
 
-**The final project is split into 2 sections: [Testing section](https://github.com/bbrandea/manual_testing_portofolio/blob/main/Final%20Project/README.md#1-testing-section) and [SQL section](https://github.com/bbrandea/manual_testing_portofolio/blob/main/Final%20Project/README.md#2-sql-section).**
+**The final project is split into 3 sections: [Testing section](https://github.com/bbrandea/manual_testing_portofolio/blob/main/Final%20Project/README.md#1-testing-section), [SQL section](https://github.com/bbrandea/manual_testing_portofolio/blob/main/Final%20Project/README.md#2-sql-section) and [API section](https://github.com/bbrandea/manual_testing_portofolio/blob/main/Final%20Project/README.md#3-api-section).**
 
 Tools used: JIRA, Zephyr Squad, Postman, MySQL Workbench.
 
